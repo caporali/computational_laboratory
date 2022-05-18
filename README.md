@@ -9,8 +9,8 @@ Edwards-Anderson</em> (original) </li>
 </ul>
 
 # Description
-The source code for the simulations can be found in the [code](https://github.com/caporali/computational_laboratory/tree/main/code) folder. it is completely written in Python (version 3.8.0). <br>
-It consists of 2 main experiments found in the [code_tsp](https://github.com/caporali/computational_laboratory/tree/main/code/code_tsp) and [code_sg](https://github.com/caporali/computational_laboratory/tree/main/code/code_sg) folder. The main codes to be executed are as follows:
+The source code for the simulations can be found in the [code](https://github.com/caporali/computational_laboratory/tree/main/code) folder. It is completely written in Python (version 3.8.0). <br>
+It consists of 2 main experiments found in the [code_tsp](https://github.com/caporali/computational_laboratory/tree/main/code/code_tsp) and [code_sg](https://github.com/caporali/computational_laboratory/tree/main/code/code_sg) folders. The main codes to be executed are as follows:
 - travelling salesman problem (tsp) - [code_tsp/main/main.py](https://github.com/caporali/computational_laboratory/blob/main/code/code_tsp/main/main.py); 
 - spin glasses (sg) - [code_sg/main/main.py](https://github.com/caporali/computational_laboratory/blob/main/code/code_sg/main/main.py).
 
