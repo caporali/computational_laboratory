@@ -9,10 +9,10 @@ Edwards-Anderson</em> (original) </li>
 </ul>
 
 # Description
-The source code for the simulations can be found in the [code](https://github.com/compuational_laboratory/tree/main/code) folder. it is completely written in Python (version 3.8.0). <br>
-It consists of 2 main experiments found in the [code_tsp](https://github.com/compuational_laboratory/tree/main/code/code_tsp) and [code_sg](https://github.com/compuational_laboratory/tree/main/code/code_sg) folder. The main codes to be executed are as follows:
-- travelling salesman problem (tsp) - [code_tsp/main/main.py](https://github.com/compuational_laboratory/tree/main/code/code_tsp/main/main.py); 
-- spin glasses (sg) - [code_sg/main/main.py](https://github.com/compuational_laboratory/tree/main/code/code_sg/main/main.py).
+The source code for the simulations can be found in the [code](https://github.com/caporali/computational_laboratory/tree/main/code) folder. it is completely written in Python (version 3.8.0). <br>
+It consists of 2 main experiments found in the [code_tsp](https://github.com/caporali/compuational_laboratory/tree/main/code/code_tsp) and [code_sg](https://github.com/caporali/compuational_laboratory/tree/main/code/code_sg) folder. The main codes to be executed are as follows:
+- travelling salesman problem (tsp) - [code_tsp/main/main.py](https://github.com/caporali/compuational_laboratory/tree/main/code/code_tsp/main/main.py); 
+- spin glasses (sg) - [code_sg/main/main.py](https://github.com/caporali/compuational_laboratory/tree/main/code/code_sg/main/main.py).
 
 All files are accompanied by brief comments (written mostly in Italian). <br>
   
