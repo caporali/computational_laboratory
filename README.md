@@ -1,5 +1,5 @@
-# Computational laboratory
-<p> Computational laboratory exam project at University of Pisa. The project regards the well-known <em>simulated annealing</em> heuristic method first from a theoretical point of view, and then two real-world applications are explored. The work is written completely in Italian. <p>
+# Computational Laboratory
+<p> Computational Laboratory exam project at University of Pisa. The project regards the well-known <em>simulated annealing</em> heuristic method first from a theoretical point of view, and then two real-world applications are explored. The work is written completely in Italian. <p>
 
 Title of the project:
 <ul>
