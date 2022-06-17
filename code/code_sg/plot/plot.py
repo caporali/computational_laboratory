@@ -38,19 +38,19 @@ def plot_figure(sigma, n, index):
 
 	plt.axis([-n - 1, n + 1, -n - 1, n + 1])
 
-	ax = fig.add_subplot(111)
-	ax.spines["bottom"].set_color("gray")
-	ax.spines["top"].set_color("gray")
-	ax.spines["right"].set_color("gray")
-	ax.spines["left"].set_color("gray")
-	ax.xaxis.label.set_color("gray")
-	ax.tick_params(axis="x", colors="gray")
-	ax.yaxis.label.set_color("gray")
-	ax.tick_params(axis="y", colors="gray")
+	# ax = fig.add_subplot(111)
+	# ax.spines["bottom"].set_color("gray")
+	# ax.spines["top"].set_color("gray")
+	# ax.spines["right"].set_color("gray")
+	# ax.spines["left"].set_color("gray")
+	# ax.xaxis.label.set_color("gray")
+	# ax.tick_params(axis="x", colors="gray")
+	# ax.yaxis.label.set_color("gray")
+	# ax.tick_params(axis="y", colors="gray")
 
-	if n >= 16:
-		ax.set_yticklabels([])
-		ax.set_xticklabels([])
+	# if n >= 16:
+	# 	ax.set_yticklabels([])
+	# 	ax.set_xticklabels([])
 
 	plt.gca().set_aspect("equal", adjustable = "box")
 
@@ -90,20 +90,20 @@ def plot_edges(J_0, J_1, n, index):
 	plt.xticks(v)
 
 	plt.axis([-n - 1, n + 1, -n - 1, n + 1])
+	
+	# ax = fig.add_subplot(111)
+	# ax.spines["bottom"].set_color("gray")
+	# ax.spines["top"].set_color("gray")
+	# ax.spines["right"].set_color("gray")
+	# ax.spines["left"].set_color("gray")
+	# ax.xaxis.label.set_color("gray")
+	# ax.tick_params(axis="x", colors="gray")
+	# ax.yaxis.label.set_color("gray")
+	# ax.tick_params(axis="y", colors="gray")
 
-	ax = fig.add_subplot(111)
-	ax.spines["bottom"].set_color("gray")
-	ax.spines["top"].set_color("gray")
-	ax.spines["right"].set_color("gray")
-	ax.spines["left"].set_color("gray")
-	ax.xaxis.label.set_color("gray")
-	ax.tick_params(axis="x", colors="gray")
-	ax.yaxis.label.set_color("gray")
-	ax.tick_params(axis="y", colors="gray")
-
-	if n >= 16:
-		ax.set_yticklabels([])
-		ax.set_xticklabels([])
+	# if n >= 16:
+	# 	ax.set_yticklabels([])
+	# 	ax.set_xticklabels([])
 
 	plt.gca().set_aspect("equal", adjustable = "box")
 
